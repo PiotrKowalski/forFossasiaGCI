@@ -26,7 +26,7 @@
 				<p>Please</p><br>
 				<p>Call me your name!:</p><br/>
 				<form name="form1"  method="post">
-					<input type="text" value="Your name" name="name">
+					<input type="text" PLaceholder="Your name" name="name">
 				<input type="submit" value="Submit">
 				</form>
 					<p><?PHP
